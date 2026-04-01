@@ -7,7 +7,7 @@
 ![Downloads](https://img.shields.io/github/downloads/TunahanD/WS2812B_LED_Controller/total?color=brightgreen)
 ![License](https://img.shields.io/badge/License-All_Rights_Reserved-red)
 
-**📥 [Uygulamayı İndir (Download Latest Release)](https://github.com/TunahanD/WS2812B_LED_Controller/blob/main/mysetup.exe)**
+**📥 [Uygulamayı İndir (Download Latest Release)](https://github.com/TunahanD/WS2812B_LED_Controller/releases/tag/Versiyon_1)**
 
 Windows üzerinde çalışan bu masaüstü uygulama, ESP32 tabanlı bir WS2812B LED kontrol sistemini kullanıcı dostu bir arayüzle yönetmek için hazırlanmıştır. Bu GitHub deposu, yalnızca son kullanıcı kurulumu ve ürün dokümantasyonu için kullanılmaktadır.
 
