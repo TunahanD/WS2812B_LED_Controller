@@ -209,31 +209,31 @@ Uygulamanın genel görünümü ve sunduğu özelliklerin arayüz üzerindeki da
 
 **1. Ana Ekran (Uygulama Açılışı)**
 *(Uygulama ilk başlatıldığında karşılaşılan temel arayüz.)*
-<img width="1920" height="1040" alt="1" src="https://github.com/user-attachments/assets/791ec382-fd2c-4d33-999b-f0ba246b35bd" />
+<img width="1920" height="1040" alt="1" src="https://github.com/user-attachments/assets/8bcebb93-aeba-46ee-912d-26513190549b" />
 
 **2. Renk Sekmesi Genel Görünümü**
 *(LED kontrolü, parlaklık paneli, renk seçici ve cihaz durum kartları bir arada.)*
-<img width="294" height="881" alt="2" src="https://github.com/user-attachments/assets/a275d806-26a4-440c-b134-b5c5994e4ad9" />
+<img width="287" height="893" alt="2" src="https://github.com/user-attachments/assets/b194bfc5-afa1-4b99-9ef9-ef0f2188a4d7" />
 
 **3. Animasyon Sekmesi (Oynatım Anı)**
 *(Animasyon sekmesine geçildiğinde ve rastgele bir animasyon oynatıldığındaki genel görünüm.)*
-<img width="1920" height="1040" alt="3" src="https://github.com/user-attachments/assets/ea27b861-be37-4a0d-84d8-95b73acceb5c" />
+<img width="1920" height="1040" alt="3" src="https://github.com/user-attachments/assets/29b1da28-f46c-49fe-8ed9-7255ac99c953" />
 
 **4. Animasyon Kartları (Bölüm 1)**
 *(Uygulama içerisinde yer alan yerleşik animasyon seçenekleri.)*
-<img width="277" height="960" alt="4" src="https://github.com/user-attachments/assets/74cd6951-d173-402d-b80f-f7b84a8b0f7e" />
+<img width="276" height="958" alt="4" src="https://github.com/user-attachments/assets/4bcc2776-698d-4d2c-82f4-85e2141bab19" />
 
 **5. Animasyon Kartları (Bölüm 2), Kontroller ve Cihaz Durumu**
 *(Diğer animasyon seçenekleri, detaylı oynatma kontrolleri ve anlık cihaz bilgisi.)*
-<img width="281" height="962" alt="5" src="https://github.com/user-attachments/assets/fb3cd138-982a-4100-9a2f-6a9adcd169e7" />
+<img width="281" height="1014" alt="5" src="https://github.com/user-attachments/assets/b18c1f58-d7fb-4af8-9001-a0a458707053" />
 
 **6. LED Detay Görünümü (Yakınlaştırma)**
 *(Tuval üzerindeki LED'lere yakınlaştırma yapıldığındaki numaralandırma ve detay görünümü.)*
-<img width="360" height="859" alt="6" src="https://github.com/user-attachments/assets/4185c79b-6431-47b7-ae8a-02d9e7f436ad" />
+<img width="269" height="838" alt="6" src="https://github.com/user-attachments/assets/ed37792e-2cda-4f43-b3e6-e2eea29c97b9" />
 
 **7. Yeni Profil Oluşturma Penceresi**
 *(Kullanıcının kendi sahne ayarlarını kaydedebildiği profil oluşturma ekranı.)*
-<img width="386" height="213" alt="7" src="https://github.com/user-attachments/assets/eb6e20c7-4d92-4d29-ac6b-f0b175271621" />
+<img width="386" height="213" alt="7" src="https://github.com/user-attachments/assets/f6a94c3a-7359-43c9-8565-6c0fc43d2dcb" />
 
 ### Sık Karşılaşılan Sorunlar ve Çözüm Önerileri
 
@@ -428,31 +428,31 @@ The general overview of the application and the distribution of its features acr
 
 **1. Main Screen (Application Launch)**
 *(The primary interface encountered when the app is first launched.)*
-<img width="1920" height="1040" alt="1" src="https://github.com/user-attachments/assets/9096950a-f993-4546-9e4e-d09afa52dc93" />
+<img width="1920" height="1040" alt="1" src="https://github.com/user-attachments/assets/224d30cd-1dff-4ebf-b37e-9e4d581e00f0" />
 
 **2. Color Tab Overview**
 *(LED control, brightness panel, color picker, and device status cards together.)*
-<img width="294" height="881" alt="2" src="https://github.com/user-attachments/assets/10f74408-3501-4161-ac4f-d59069836852" />
+<img width="287" height="893" alt="2" src="https://github.com/user-attachments/assets/1064a6af-4566-406f-966f-30a0aa73179d" />
 
 **3. Animation Tab (Playback View)**
 *(General view when switched to the animation tab and a random animation is playing.)*
-<img width="1920" height="1040" alt="3" src="https://github.com/user-attachments/assets/7ffa8a06-a5f4-447f-96a5-5f535b4eba2e" />
+<img width="1920" height="1040" alt="3" src="https://github.com/user-attachments/assets/af150097-1244-422a-84af-c03486d78326" />
 
 **4. Animation Cards (Part 1)**
 *(Built-in animation options available within the application.)*
-<img width="277" height="960" alt="4" src="https://github.com/user-attachments/assets/91956d1f-b9b3-4596-a75d-cd3ae4db45eb" />
+<img width="276" height="958" alt="4" src="https://github.com/user-attachments/assets/9493923c-d760-4cae-bb08-731fbc01f03f" />
 
 **5. Animation Cards (Part 2), Controls, and Device Status**
 *(Remaining animation options, detailed playback controls, and real-time device info.)*
-<img width="281" height="962" alt="5" src="https://github.com/user-attachments/assets/87f8daf1-cfbd-4cb2-9f5f-631213d6423f" />
+<img width="281" height="1014" alt="5" src="https://github.com/user-attachments/assets/4fe81df4-9894-420e-884f-7d569d8526c6" />
 
 **6. LED Detail View (Zoom In)**
 *(Numbering and detail view when zooming into the LEDs on the canvas.)*
-<img width="360" height="859" alt="6" src="https://github.com/user-attachments/assets/e4372468-2953-429d-8a7b-f7a7bb4ae76a" />
+<img width="269" height="838" alt="6" src="https://github.com/user-attachments/assets/75fcf22c-50fd-46f4-bf13-949566efc996" />
 
 **7. Create New Profile Window**
 *(The profile creation screen where the user can save their custom scene settings.)*
-<img width="386" height="213" alt="7" src="https://github.com/user-attachments/assets/1116124f-f3d0-4d4b-8e50-5f5256ac6416" />
+<img width="386" height="213" alt="7" src="https://github.com/user-attachments/assets/2c51d62d-39c2-4ad5-a72d-0bec558d2592" />
 
 ### Troubleshooting Guide
 
