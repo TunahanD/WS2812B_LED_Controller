@@ -4,7 +4,7 @@
 
 ![OS](https://img.shields.io/badge/OS-Windows_10%20|%2011-blue)
 ![Version](https://img.shields.io/badge/Version-v1.0.0-success)
-![Downloads](https://img.shields.io/github/downloads/TunahanD/SENIN_REPO_ADIN/total?color=brightgreen)
+![Downloads](https://img.shields.io/github/downloads/TunahanD/WS2812B_LED_Controller/total?color=brightgreen)
 ![License](https://img.shields.io/badge/License-All_Rights_Reserved-red)
 
 **📥 [Uygulamayı İndir (Download Latest Release)](https://github.com/TunahanD/WS2812B_LED_Controller/blob/main/mysetup.exe)**
